@@ -45,5 +45,5 @@ npm start or yarn start
 
 ## Screenshot
 
-![./src/screenshot/screenshot1.jpg](./src/screenshot/screenshot1.jpg)
+![./src/screenshot/screenshot1.jpg](./src/screenshot/screenshot1.png)
 # Task-Management-Dnd

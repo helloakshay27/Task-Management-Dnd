@@ -45,5 +45,5 @@ npm start or yarn start
 
 ## Screenshot
 
-![https://task-management-dnd.vercel.app/src/screenshot/screenshot1.png](https://task-management-dnd.vercel.app/src/screenshot/screenshot1.png)
+![./src/screenshot/Screenshot1.png](./src/screenshot/Screenshot1.png)
 # Task-Management-Dnd
